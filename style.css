@@ -7,13 +7,21 @@ body {
 	background: url("http://iwallpapers2.free.fr/images/Photographie/Black_Collection/Bois_sombre_Texture_1920x1080.jpg");
 	color: #ffffff;
 	margin-left: 5%;
-	font-family: Cursive;
+
 }
 
-p{
+h1 {
+	font-size: 1.9em;
+} 
+
+h2 {
+	font-size: 1.5em;
+	text-decoration: underline;
+}
+
+p {
 	text-align: justify;
 	margin-right: 5%;
-	font-family: Arial ;
 }
 
 /*
@@ -22,8 +30,8 @@ Effet spécifique pour la phrase d'introduction
 #maDescription {
 	text-align: center;
 	font-style: italic;
-	font-size: 1.6em;
 	color: #ffa5a5;
+	font-size: 1.9em;
 }
 
 /*
