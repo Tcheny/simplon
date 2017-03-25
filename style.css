@@ -50,5 +50,6 @@ a {
 	font-style: italic;
 }
 iframe {
-	margin-left: 25%;
+	display: flex;
+	margin: auto;
 }
