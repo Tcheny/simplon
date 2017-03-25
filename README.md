@@ -15,5 +15,5 @@ pour voir si le monde numérique, et plus précisément le web pouvait réelleme
 à apprendre à coder, pour m’amuser dans un premier temps. Au fur et à mesure ce fut pour moi une révélation, 
 j’ai développé l’amour du code. C’est à ce moment que j’ai réellement pris l’initiative de me reconvertir 
 dans ce domaine quand j’ai su que cet univers m'était accessible. Je me suis alors renseignée sur les 
-formations intensives, et j'ai su que Simplon pourrait m'apporter énormément, dans cette nouvelle vocation. 
+formations intensives, et j'ai su que Simplon pourrait m'apporter énormément, dans cette nouvelle vocation.
 Depuis je poursuis mon apprentissage dans l’univers du code en attendant les inscriptions.
