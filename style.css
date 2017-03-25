@@ -7,7 +7,6 @@ body {
 	background: url("http://iwallpapers2.free.fr/images/Photographie/Black_Collection/Bois_sombre_Texture_1920x1080.jpg");
 	color: #ffffff;
 	margin-left: 5%;
-
 }
 
 h1 {
@@ -49,4 +48,7 @@ a {
 	text-decoration: none;
 	color: white;
 	font-style: italic;
+}
+iframe {
+	margin-left: 25%;
 }
