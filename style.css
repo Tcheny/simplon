@@ -1,0 +1,52 @@
+/*
+Style général du document
+Une image en guise d'arrière plan
+Des textes en blanc par défaut
+*/
+body {
+	background: url("http://iwallpapers2.free.fr/images/Photographie/Black_Collection/Bois_sombre_Texture_1920x1080.jpg");
+	color: #ffffff;
+	margin-left: 5%;
+
+}
+
+h1 {
+	font-size: 1.9em;
+} 
+
+h2 {
+	font-size: 1.5em;
+	text-decoration: underline;
+}
+
+p {
+	text-align: justify;
+	margin-right: 5%;
+	margin-left: 2%;
+}
+
+/*
+Effet spécifique pour la phrase d'introduction
+*/
+#maDescription {
+	text-align: center;
+	font-style: italic;
+	color: #ffa5a5;
+	font-size: 1.9em;
+}
+
+/*
+Bordure et ombre pour un traitement photo au top
+*/
+img {
+	width: 15%;
+	height: 15%;
+	border: 2px solid white;
+	box-shadow: 7px 7px 5px 0px rgba(255, 255, 255, 0.35);
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	font-style: italic;
+}
